@@ -7,6 +7,15 @@
   - range
   - set
   - dict
+  - default dict
+* Features of Data structures:
+  - Indexing
+  - Slicing
+  - Mutability
+  - Iterability
+  - Duplicates Allowed
+  - Hasahble
+  - Homogenious or not
 * Generator, zip, map, custom generator
 * List comprehension
 * Object oriented Python
