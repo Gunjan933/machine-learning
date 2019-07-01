@@ -29,3 +29,7 @@
 	- Estimators
 	- Transformers
 	- Predictors
+
+* **Splitting**
+	- Stratified splitting
+		- Stratum strata
