@@ -33,3 +33,7 @@
 * **Splitting**
 	- Stratified splitting
 		- Stratum strata
+
+
+* **Project Undertaken**
+	- Twitter Sentiment Analysis Using `nltk.classify.naivebayesclassifier`
