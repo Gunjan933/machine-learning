@@ -37,3 +37,10 @@
 
 * **Project Undertaken**
 	- Twitter Sentiment Analysis Using `nltk.classify.naivebayesclassifier`
+
+* **Creating interface for ML projects**  
+	- Train a model with desired dataset
+	- Serialize the model using python pickle library or any other library
+	- Create mobile or web interface
+	- Deserialize and predict
+	- return the response to the appropriate medium
